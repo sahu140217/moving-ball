@@ -2,7 +2,9 @@ body {
 	background-color: #b4a520;
 	overflow: hidden;
 }
-
+ h2{
+  text-align: center;
+ }
 
 .ball {
 	width: 100px;
